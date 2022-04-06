@@ -13,7 +13,7 @@ function math.sec(x)
 end
 
 math.phi = 1.61803398875
-math.tau = 6.28318530718
+math.tau = math.pi * 2--6.28318530718
 math.e = 2.71828182846
 
 return math
